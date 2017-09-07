@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>gmnumeric</name>
+	<displayName><![CDATA[Numeric Order Reference]]></displayName>
+	<version><![CDATA[1.2.0]]></version>
+	<description><![CDATA[Changes order reference from string to numeric]]></description>
+	<author><![CDATA[GreenMouseStudio.com]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall this amazing module?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>gmnumeric</name>
+	<displayName><![CDATA[Numeryczna Referencja]]></displayName>
+	<version><![CDATA[1.2.0]]></version>
+	<description><![CDATA[Zmienia referencję zam&oacute;wienia na numeryczną]]></description>
+	<author><![CDATA[GreenMouseStudio.com]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<confirmUninstall><![CDATA[Czy na pewno chcesz odinstalować ten niesamowity moduł?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
