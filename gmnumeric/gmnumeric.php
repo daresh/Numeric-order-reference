@@ -3,7 +3,7 @@
  * Replaces the string order reference with numeric one
  *
  * @package   gmnumeric
- * @author    Dariusz Tryba
+ * @author    Dariusz Tryba (contact@greenmousestudio.com)
  * @copyright Copyright (c) Green Mouse Studio (http://www.greenmousestudio.com)
  * @license   http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
  */
