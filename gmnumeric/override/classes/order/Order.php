@@ -13,7 +13,7 @@ class Order extends OrderCore
     /*
      * module: gmnumeric
      * date: 2016-04-18 08:55:44
-     * version: 1.1.0
+     * version: 1.2.0
      */
 
     public static function generateReference()
